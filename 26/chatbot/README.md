@@ -1,4 +1,4 @@
-# Power System Analysis Chatbot
+# EEE Chatbot
 
 An intelligent multi-agent chatbot system for power system analysis tasks, leveraging Large Language Models (LLMs) and MATLAB integration for complex electrical engineering computations.
 
@@ -339,4 +339,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ---
 
-Made with ❤️ and ⚡ by the Power Systems Team
+Made with ❤️ and ⚡ by the Team 8
