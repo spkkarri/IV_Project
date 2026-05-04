@@ -1,0 +1,9 @@
+numpy
+openai
+ddgs
+pyps
+python-dotenv
+streamlit
+Pillow
+beautifulsoup4
+matplotlib
